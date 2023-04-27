@@ -21,3 +21,4 @@ Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de
 ```
 
 ## 🛞 Funcionalidade:
+>//Exibir um GIF aqui
