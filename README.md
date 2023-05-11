@@ -1,5 +1,7 @@
 # Arduino_Led_On-Off_OneButton
 Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de um sistema arduino com um Botão que acende e apaga um led.<br><br>
+💡Explicação: Ao clicar no botão, ele passa o Led para Ativo, após clicar novamente ele passa o Led para Destivado. <br> 
+
 >🔗 Link Projeto:https://www.tinkercad.com/things/aHD5H8uBElh <br>
 >Finalizado ✅
 
